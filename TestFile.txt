@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Changed TestFile in develop zzzz
-=======
 Changed TestFile in develop testing again reset
->>>>>>> 9dd311593fc1549f5e479bbb27f0403d9f640ad6
