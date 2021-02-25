@@ -1,1 +1,1 @@
-Changed TestFile in develop to test reset command
+Changed TestFile in develop
