@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Changed TestFile in develop testing again reset
+=======
+Changed TestFile in develop
+>>>>>>> parent of 9dd3115 (TestFile.txt update again)
